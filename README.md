@@ -1,9 +1,9 @@
 # TikTokViewsBot
 
-###Zefoy Bot
+**Zefoy Bot**\
 Using Zefoy Bot you can get 800-1000 views every 4 minutes.
 
-###Freer Bot
+**Freer Bot**\
 Using Freer Bot you can get 800-1000 views every 10 minutes.
 
 You can also start using both Bots at the same time and get 3000 views every 10 minutes.
